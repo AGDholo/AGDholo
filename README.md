@@ -1,4 +1,4 @@
-[![AGDholo's github stats](https://github-readme-stats.vercel.app/api?username=AGDholo)](https://github.com/AGDholo)
+[![AGDholo's github stats](https://github-readme-stats.vercel.app/api?username=AGDholo&hide=["stars"])](https://github.com/AGDholo)
 
 <a href="https://github.com/vuetifyjs/vuetify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vuetifyjs&repo=vuetify" />
