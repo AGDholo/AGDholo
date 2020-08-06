@@ -16,8 +16,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenEpicData&repo=GamerClubWeb" />
 </a>
 
-<a href="https://github.com/heroui/giraffe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=heroui&repo=giraffe" />
+<a href="https://github.com/AGDholo/giraffe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AGDholo&repo=giraffe" />
 </a>
 
 <a href="https://github.com/EpicLearn/ThinkPHP5.1-Web-Actual-combat">
