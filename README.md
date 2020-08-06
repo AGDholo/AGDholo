@@ -8,10 +8,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lidangzzz&repo=hedgehog-lab" />
 </a>
 
-<a href="https://github.com/juicyfx/vercel-php">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juicyfx&repo=vercel-php" />
-</a>
-
 <a href="https://github.com/OpenEpicData/GamerClubWeb">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenEpicData&repo=GamerClubWeb" />
 </a>
