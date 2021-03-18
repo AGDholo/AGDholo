@@ -1,6 +1,6 @@
 ## Hi here!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AGDholo" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AGDholo&count_private=true&show_icons=true&theme=react" />
 
 Focus on Vuetify&Vue development
 
